@@ -3,7 +3,7 @@ This repository contains a sample project in Kotlin to demonstrate Jetpack Compo
 
 ## The app has the following base packages:
 
-- datastore: Proto Datastore
+- datastore: Proto Datastore & data Encrytion/Decrytion
 
 - di: Hilt classes for Network and Datastore
 
