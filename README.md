@@ -23,6 +23,8 @@ This repository contains a sample project in Kotlin to demonstrate Jetpack Compo
 
 - Retrofit: https://square.github.io/retrofit/
 
+- Ktor: https://ktor.io/
+
 ## Concept reference resources:
 
 - Repository Codelab: https://developer.android.com/codelabs/kotlin-android-training-repository
