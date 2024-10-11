@@ -31,6 +31,8 @@ This repository contains a sample project in Kotlin to demonstrate Jetpack Compo
 
 - Room and Flow Codelab: https://developer.android.com/codelabs/basic-android-kotlin-training-intro-room-flow
 
+- DataStore and Proto Codelab : https://developer.android.com/courses/pathways/android-basics-compose-unit-6-pathway-3
+
 - Hilt Codelab: https://developer.android.com/codelabs/android-hilt
 
 - Navigation Codelab: https://developer.android.com/codelabs/jetpack-compose-navigation
